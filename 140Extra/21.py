@@ -5,5 +5,5 @@
 # print("the sum of the 3 numbers =", sum)
 sum = 0
 for ele in range(11):
-    print(sum)
     sum += sum+1
+    print(sum)
